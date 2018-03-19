@@ -62,9 +62,15 @@ o S – Sell – incoming
 The solution
 
 This is a Maven project.
+
 The trade data are loaded from a txt file. The algorithm reads line by line the file and constructs a trade.
+
 Amounts for incoming and outgoing are printed in console.
+
 Ranking reports are printed in console as well.
+
 Build it with Java 8.
+
 Junit tests are using Mockito framework.
+
 You can run it from eclipse or any IDE of your choice.
